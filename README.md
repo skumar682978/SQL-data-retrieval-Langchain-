@@ -28,7 +28,7 @@ Create an SQL agent using create_sql_agent.
 
 ### Functionality:
 
-- The agent can execute SQL queries based on natural language input. Example queries include:
+The agent can execute SQL queries based on natural language input. Example queries include:
 - Counting the number of tables in the database.
 - Counting rows in a specific table.
 - Querying specific data, such as counting animals of a certain color.
